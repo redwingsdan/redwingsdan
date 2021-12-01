@@ -29,5 +29,11 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="25" height="25" />
 </p>
+---
+
+<h2> 🖥⌨ Most used Languages </h2>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redwingsdan&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 <img src="https://github-readme-stats.vercel.app/api?username=redwingsdan&show_icons=true&count_private=true" alt="redwingsdan" />
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=redwingsdan.redwingsdan" alt="visitors"></p>
