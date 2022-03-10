@@ -5,7 +5,7 @@
 <p>Placeholder for anything I want to say.</p>
 <h2>⚡️ A Few Facts</h2>
 <ul>
-<li>🔭 I’m currently working on my <a href="https://redwingsdan.github.io/">Personal Website</a>.</li>
+<li>🔭 I’m currently working on my <a href="https://redwingsdan.github.io/">Personal Website</a> and NHL Website.</li>
 <li>🧐 Brushing up on my <strong><a href="https://github.com/redwingsdan/LeetCode">Algorithms</a></strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/redwingsdan">Github</a>.</li>
 <li>📙 Resume TBD.</li>
