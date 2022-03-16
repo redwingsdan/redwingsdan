@@ -7,7 +7,7 @@
 <ul>
 <li>🔭 I’m currently working on my <a href="https://redwingsdan.github.io/">Personal Website</a> and NHL Website.</li>
 <li>🧐 Brushing up on my <strong><a href="https://github.com/redwingsdan/LeetCode">Algorithms</a></strong>.</li>
-<li>👨‍💻 Most of my projects are available on <a href="https://github.com/redwingsdan">Github</a>.</li>
+<li>👨‍💻 Most of my projects are available here at <a href="https://github.com/redwingsdan">Github</a>.</li>
 <li>📙 Resume TBD.</li>
 </ul>
 <h2>🧰 Some Tools I Use</h2>
