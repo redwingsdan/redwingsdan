@@ -1,5 +1,5 @@
 <h2>Hey 👋, I'm <a href="https://redwingsdan1.wordpress.com/">Daniel</a></h2>
-<p>I'm currently a software engineer at <strong><a href="https://www.lbisoftware.com/">LBi Software</a></strong> based in 🏙️ New York. I am always trying to improve.</p>
+<p>I'm currently a software engineer at <strong><a href="https://www.lbisoftware.com/">LBi Software</a></strong> based in 🏙️ New York. I have a penchant for learning and am a devoted hockey fan.</p>
 <p><a href="https://redwingsdan1.wordpress.com/"><img src="https://img.shields.io/badge/-https://redwingsdan1.wordpress.com-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://redwingsdan1.wordpress.com" alt="Website Badge"></a> <a href="https://www.linkedin.com/in/daniel-j-peterson/"><img src="https://img.shields.io/badge/-@danieljpeterson-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/daniel-j-peterson/" alt="LinkedIn Badge"></a></p>
 <h2>📢📢 Announcements 📢📢</h2>
 <p>Placeholder for things I want to say.</p>
